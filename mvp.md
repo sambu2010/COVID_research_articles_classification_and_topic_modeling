@@ -5,3 +5,5 @@ The goal of this project is an unsupervised machine learning model that will be 
 To start exploring this goal I acquired the data from CORD-19 (Covid-19 Open Research Dataset) and used LDA to build initial topic model with 25 components
 
  ![lda](https://github.com/sambu2010/unsupervised_learning/blob/main/LDA.png)
+
+ The model is still requires tuning, this will be done next.
